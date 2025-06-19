@@ -1,0 +1,52 @@
+[
+  {
+    "condition": "COVID-19",
+    "symptoms": ["fever", "dry cough", "fatigue", "loss of taste", "loss of smell", "shortness of breath"],
+    "advice": "Isolate and consult a healthcare provider immediately. Monitor oxygen saturation."
+  },
+  {
+    "condition": "Dengue",
+    "symptoms": ["fever", "joint pain", "rash", "muscle pain", "headache", "nausea", "vomiting"],
+    "advice": "Drink fluids, avoid NSAIDs, and see a doctor for blood tests."
+  },
+  {
+    "condition": "Malaria",
+    "symptoms": ["fever", "chills", "sweating", "vomiting", "headache", "diarrhea"],
+    "advice": "Seek medical attention. Blood test confirmation required."
+  },
+  {
+    "condition": "Asthma",
+    "symptoms": ["wheezing", "shortness of breath", "chest tightness", "coughing"],
+    "advice": "Use inhaler, avoid triggers, and seek emergency care if severe."
+  },
+  {
+    "condition": "Pneumonia",
+    "symptoms": ["cough", "fever", "chills", "shortness of breath", "chest pain"],
+    "advice": "Requires antibiotics and rest. Seek medical help."
+  },
+  {
+    "condition": "Typhoid",
+    "symptoms": ["fever", "abdominal pain", "constipation", "diarrhea", "loss of appetite"],
+    "advice": "Get tested and take antibiotics as prescribed by a doctor."
+  },
+  {
+    "condition": "Sinusitis",
+    "symptoms": ["facial pain", "headache", "runny nose", "nasal congestion", "postnasal drip"],
+    "advice": "Use nasal sprays and drink warm fluids. Seek help if symptoms persist."
+  },
+  {
+    "condition": "Appendicitis",
+    "symptoms": ["abdominal pain", "fever", "loss of appetite", "nausea", "vomiting"],
+    "advice": "Requires immediate medical attention and possible surgery."
+  },
+  {
+    "condition": "Migraine",
+    "symptoms": ["headache", "nausea", "sensitivity to light", "vomiting", "blurred vision"],
+    "advice": "Rest in a dark room, stay hydrated, and use painkillers or prescribed meds."
+  },
+  {
+    "condition": "Anemia",
+    "symptoms": ["fatigue", "pale skin", "shortness of breath", "dizziness", "cold hands and feet"],
+    "advice": "Eat iron-rich foods and consult a doctor for supplements."
+  }
+]
